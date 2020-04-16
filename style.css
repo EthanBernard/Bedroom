@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    margin: auto;
+    font-family: monospace;
+    font-size: xxx-large;
+}
+
+body {
+    text-align: center;
+}
+
+canvas {
+    border: 10px lightblue solid;
+}
